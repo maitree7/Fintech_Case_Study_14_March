@@ -31,11 +31,11 @@ SALT's globally available asset-backed financing solution empowers liquidity pro
 * Processing Costs & Fees
   Processing Cost / Loan Application Fees is a fee charged to a potential borrower for processing an application for a loan and are intended to pay for all the costs of the process of loan approval.
 
-  **Intended Market**
+**Intended Market**
   Crypto backed lending is not a product, company or any organization. It’s  innovative technology, a technology that has disrupted the traditional financial lending market
   Crypto backed lending sector overall is approx. $5B in value
   As per the report from “theblockcrypto.com”, below are the details about crypto lending sector overall:
-  ![Cryptolending_market](Images\cryptolending_market.png)
+  ![Cryptolending_market](Images/Cryptolending_market.png)
 
   **SALT Lending Process**
   Users buy membership to the Salt Lending platform by purchasing Salt, which is the platform's cryptocurrency. 
@@ -43,7 +43,6 @@ SALT's globally available asset-backed financing solution empowers liquidity pro
 
   When someone becomes a member, they can borrow money from an extensive network of lenders. Borrowers put up bitcoin, ether, ripple and other blockchain assets as collateral. 
   This is because Salt Lending, instead of determining the eligibility of a borrower by focusing on their credit score, grants eligibility on the value of the borrower's blockchain assets. 
-  Because of this, approval is fast. Salt keeps collateral assets safe in a "fully-audited, ultra-secure architecture during the life of the loan so members can borrow with confidence," according to their [website]
-  [website] : https://saltlending.com/
+  Because of this, approval is fast. Salt keeps collateral assets safe in a "fully-audited, ultra-secure architecture during the life of the loan so members can borrow with confidence," according to their [website](https://saltlending.com/)
   Borrowers are charged interest on the loan, as they would be on any other loan. However, unlike other loans, when a borrower pays it off, they receive their blockchain-backed assets back. 
   
