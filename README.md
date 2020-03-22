@@ -35,7 +35,7 @@ SALT's globally available asset-backed financing solution empowers liquidity pro
   Crypto backed lending is not a product, company or any organization. It’s  innovative technology, a technology that has disrupted the traditional financial lending market
   Crypto backed lending sector overall is approx. $5B in value
   As per the report from “theblockcrypto.com”, below are the details about crypto lending sector overall:
-  ![Cryptolending_market](C:\Users\19802\Desktop\UNCC_Bootcamp\Homework\Fintech\cryptolending_market.png)
+  ![Cryptolending_market](Images\cryptolending_market.png)
 
   **SALT Lending Process**
   Users buy membership to the Salt Lending platform by purchasing Salt, which is the platform's cryptocurrency. 
