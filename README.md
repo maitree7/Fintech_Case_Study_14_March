@@ -1,5 +1,5 @@
 # SALT LENDING
-![Salt_image](C:\Users\19802\Desktop\UNCC_Bootcamp\Homework\Fintech\Salt_image.png)
+![Salt_image](Images/Salt_image.png)
 ## Background about SALT
 
 **SALT** stands for **Secured Automated & Lending Technology**
