@@ -1,6 +1,6 @@
 # SALT LENDING
 ![Salt_image](Images/Salt_image.png)
-## Background about SALT
+## BACKGROUND ABOUT SALT
 
 **SALT** stands for **Secured Automated & Lending Technology**
 
@@ -19,7 +19,7 @@ SALT is automated, cost-effective, transparent and cryptographically secure. Thi
 
 SALT's globally available asset-backed financing solution empowers liquidity providers to manage the risk of lending to a rapidly expanding, underserved and immediately addressable borrower base.
 
-## Business Activities
+## BUSINESS ACTIVITIES
 
 **Problem in existing Financial Lending Industry**
 * **`Less Flexibility in Lending`**' Because of financial regulations in place, those with lower credit scores have a harder time obtaining a loan
@@ -65,4 +65,33 @@ The technology that enables to track the prices of assets all day every day, alo
 By custodying the customers’ assets for the duration of their loan, SALT retains the ability to liquidate a portion of their collateral if the customer does not take action to restore the health of their loan during a market downturn. This enables to prevent losses of principal for the lender.
 
 So, while managing such volatility is not common in traditional asset-backed lending, SALT has  found a way to manage crypto assets as collateral, which has enabled it to bring this alternative asset class to the traditional finance space. 
+
+## RECOMMENDATION
+
+Crypto market is up and running throughout the day, so while arbitragers try to make a profit out of it. The lenders/borrowers might suffer a set back if the money repaid/borrowed has dipped throughout the day. 
+
+Many investors might see a possibility of seeing an assets’ value depreciated to a point where the debtor is better off defaulting than repaying the loan.
+
+For example, after the announcement of the *Facebook* digital coin *Libra*, it climbed almost 55% in a week to reach an 18-month price high. A few weeks later, it dropped over 10% after calls for Libra scrutiny from politicians and regulators.
+
+Due to volatility nature of cryptocurrency, the loan should be given only for a short period of time (approx 12 months). Also, it should be powered by a credit agency in order to have instant crypto credit line. 
+(eg – Credissimo – a leading European FinTech with a proven track record)
+
+**Possible Innovation**
+
+In a spin-off of this application of blockchain, some lenders are hoping to leverage blockchain technology, and smart contract technology directly in loans. 
+
+This would mean that the terms of the loan would exist within the ledger itself, and this would facilitate automatic functions in the loan, like payment and collection. 
+
+This has huge implications for peer-to-peer, unsecured lending, which could be made more efficient, and much more secure and reliable.
+
+**Closing Remarks**
+
+As more and more crypto-based lending solutions are about to burst into the market, making the right decision will become the central issue for the average user. 
+
+To make the best decision possible, be sure to think about the LTV ratio, interest rates, repayment schedule, as well as customer support services before even signing up for the services.
+
+SALT lendings, while a relatively new platform on the market is a genuinely solid alternative to any established players in the industry. 
+
+
 
