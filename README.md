@@ -22,7 +22,7 @@ SALT's globally available asset-backed financing solution empowers liquidity pro
 ## BUSINESS ACTIVITIES
 
 ### Problem in existing Financial Lending Industry
-* **`Less Flexibility in Lending`**' Because of financial regulations in place, those with lower credit scores have a harder time obtaining a loan
+* **`Less Flexibility in Lending`** Because of financial regulations in place, those with lower credit scores have a harder time obtaining a loan
 * **`Slower Application Process`** Because there are so many rules, regulations, and face-to-face meetings to fill out paperwork and submit documents, the application time is slower and more tedious than with digital lenders. Digital lenders have a more streamlined approach but still follow the same process to identify the most qualified borrowers with the least amount of hassle.
 * **`Inconvenience`** Banks are typically only open during standard business hours, which makes it hard for many working people, especially on time sensitive banking matters.
 * **`Processing Costs & Fees`** Processing Cost / Loan Application Fees is a fee charged to a potential borrower for processing an application for a loan and are intended to pay for all the costs of the process of loan approval.
@@ -126,11 +126,11 @@ A new innovation in the finance industry, blockchain assets are ideal collatera
 ### Use Crypto Load For
 
 Crypto backed loans are one of the most cost-effective and efficient ways to manage your cryptocurrencies when you need access to USD. 
-  * `Buying a home` – traditional lenders will not let you pay for a home with crypto
-  * `Diversifying investments` – lower the risk of your portfolio by diversifying
-  * `Paying off travel expenses` – use your crypto to go on vacation
-  * `Paying off high-cost debt` – refinancing debt from credit cards or student loans
-  * `Funding a business` – access credit for your business using crypto
+  * **`Buying a home`** – traditional lenders will not let you pay for a home with crypto
+  * **`Diversifying investments`** – lower the risk of your portfolio by diversifying
+  * **`Paying off travel expenses`** – use your crypto to go on vacation
+  * **`Paying off high-cost debt`** – refinancing debt from credit cards or student loans
+  * **`Funding a business`** – access credit for your business using crypto
 
 ### Major Companies Involved
 
