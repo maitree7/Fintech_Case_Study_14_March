@@ -36,7 +36,8 @@ Crypto backed lending sector overall is approx. $5B in value
 SALT Lending market cap is $6.6M in value
 
 As per the report from "coinmarketcap", below are the details about SALT Lending market:
-![Salt_Market_share](Images/Salt_Market_share.png)
+
+![Salt_Market_share](Images/Salt_Market_share.PNG)
   
 
 ### SALT Lending Process
@@ -124,6 +125,11 @@ SALT lendings, while a relatively new platform on the market is a genuinely soli
 * https://coincentral.com/salt-lending-beginner-guide/ (SALT Lending Process with real example)
 * https://withcadence.io/blog/crypto-chat-qa-with-dustin-vp-of-salt-lending/utm_source=beamer&utm_medium=sidebar&utm_campaign=Crypto-Chat-QA-with-Dustin-Hull-Co-President-CFO-SALT-Lending&utm_content=ctalink (A discussion with Dustin Hall, VP of SALT Lending)
 * https://cointelegraph.com/news/crypto-loans-see-solid-growth-platforms-attract-community-interest (Details about the competitors)
+
+### POWERPOINT SLIDES
+
+* https://docs.google.com/presentation/d/18Lm1qq2UZo0Ga20pZZ0ufAlG2UKNJcs3/edit#slide=id.p1
+
 
 
 
