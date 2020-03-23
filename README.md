@@ -46,8 +46,7 @@ Because of this, approval is fast. Salt keeps collateral assets safe in a "fully
 
 Borrowers are charged interest on the loan, as they would be on any other loan. However, unlike other loans, when a borrower pays it off, they receive their blockchain-backed assets back. 
 
-### **Example of SALT LENDING LOAN**
-![Salt_process](images/Salt_process.png)
+![Salt_process](Images/Salt_Process.png)
 
 **Technology that set apart SALT from others**
 
@@ -59,4 +58,11 @@ Borrowers are charged interest on the loan, as they would be on any other loan. 
            
 * **`LTV monitoring system`** Customers get access to LTV monitoring system that tracks the prices of assets 24 hours a day, 365 days per year. If there’s a meaningful price drop, our real-time alert system notifies customers immediately via phone calls, texts and emails, so they can effectively manage their loan.
 
+A common misconception is that you can’t collateralize crypto assets because they are volatile in nature. While this misconception is understandable, SALT exists because they have solved that very issue. 
+
+The technology that enables to track the prices of assets all day every day, along with the health of our customers’ loans and rely on this real-time monitoring system to inform when a customer’s collateral is declining in value, causing their Loan-to-Value ratio to rise. 
+
+By custodying the customers’ assets for the duration of their loan, SALT retains the ability to liquidate a portion of their collateral if the customer does not take action to restore the health of their loan during a market downturn. This enables to prevent losses of principal for the lender.
+
+So, while managing such volatility is not common in traditional asset-backed lending, SALT has  found a way to manage crypto assets as collateral, which has enabled it to bring this alternative asset class to the traditional finance space. 
 
