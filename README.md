@@ -34,8 +34,8 @@ Crypto backed lending is not a product, company or any organization. It’s  inn
 Crypto backed lending sector overall is approx. $5B in value
 SALT Lending market cap is $6.6M in value
 
-As per the report from "coinmarketcap", below are the details about crypto lending sector overall:
-  ![Cryptolending_market](Images/Cryptolending_market.png)
+As per the report from "coinmarketcap", below are the details about SALT Lending market:
+  
 
 ### SALT Lending Process
 
