@@ -1,12 +1,13 @@
 # SALT LENDING
 ![Salt_image](Images/Salt_image.png)
+
 ## ABOUT SALT
 
-**SALT** stands for **Secured Automated & Lending Technology**
+> **SALT** stands for **Secured Automated & Lending Technology**
 
 SALT was founded in 2016 by a group of Bitcoin enthusiasts who aimed to prove that people didn’t need to compromise their lifestyle or forego their needs in order to pursue a long term outlook on cryptocurrency. Salt introduced asset backed lending to the cryptocurrency marketplace, providing a new level of versatility to digital asset holders.
 
-**Shawn Owen**, a graduate from Southern Utah University was the co-founder & CEO for SALT till 2018.
+> **Shawn Owen**, a graduate from Southern Utah University was the co-founder & CEO for SALT till 2018.
 
 Salt Lending Holdings, Inc is a Private company headquartered in Denver, Colorado. Salt Lending Holdings, Inc has received a total of $1.5M in funding. Currently, SALT Lending has expanded to 46 U.S. states and also operates in the United Kingdom, New Zealand, Hong Kong, Vietnam and more.
 
@@ -123,7 +124,7 @@ A new innovation in the finance industry, blockchain assets are ideal collatera
 
   Additionally, there can be ***tax benefits*** to borrowing crypto. Unlike selling your crypto, a crypto or bitcoin backed loan does not trigger a capital gains tax event, saving you the headache when doing your crypto taxes.
 
-### Use Crypto Load For
+### Use Crypto Loan For
 
 Crypto backed loans are one of the most cost-effective and efficient ways to manage your cryptocurrencies when you need access to USD. 
   * **`Buying a home`** – traditional lenders will not let you pay for a home with crypto
@@ -209,25 +210,28 @@ To make the best decision possible, be sure to think about the LTV ratio, intere
 
 SALT lendings, while a relatively new platform on the market is a genuinely solid alternative to any established players in the industry. 
 
-### RESOURCES
 
-* https://saltlending.com/ (Information about SALT)
-* https://list.wiki/SALT_(SALT) (Wikipedia page about SALT)
-* https://www.investopedia.com/tech/salt-secured-automated-lending-technology-blockchain/ (SALT Lending Process)
-* https://coincentral.com/salt-lending-beginner-guide/ (SALT Lending Process with real example)
-* https://withcadence.io/blog/crypto-chat-qa-with-dustin-vp-of-salt-lending/utm_source=beamer&utm_medium=sidebar&utm_campaign=Crypto-Chat-QA-with-Dustin-Hull-Co-President-CFO-SALT-Lending&utm_content=ctalink (A discussion with Dustin Hall, VP of SALT Lending)
-* https://cointelegraph.com/news/crypto-loans-see-solid-growth-platforms-attract-community-interest (Details about the competitors)
-* https://learnbonds.com/loans/bitcoin-loans (Details about Bitcoin Loans)
-* https://habiletechnologies.com/blog/loan-origination-trends/ (Trends about Traditional Financing & Digital Financing)
-* https://medium.com/accion/the-rapidly-changing-landscape-of-digital-lending-c4a6620f6f43 (Changing landscape of digital lending)
-* https://hackernoon.com/decentralized-credit-lending-on-the-blockchain-fa988b1ec7b4 (Decentralised credit lending on the blockchain)
+### FURTHUR READING
 
-
-### POWERPOINT SLIDES
-
-* https://docs.google.com/presentation/d/18Lm1qq2UZo0Ga20pZZ0ufAlG2UKNJcs3/edit#slide=id.p1
+* [Information about SALT](https://saltlending.com/)
+* [Wikipedia page about SALT](https://list.wiki/SALT_(SALT))
+* [SALT Lending Process](https://www.investopedia.com/tech/salt-secured-automated-lending-technology-blockchain/) 
+* [SALT Lending Process with real example](https://coincentral.com/salt-lending-beginner-guide/ )
+* [A discussion with Dustin Hall, VP of SALT Lending](https://withcadence.io/blog/crypto-chat-qa-with-dustin-vp-of-salt-lending/utm_source=beamer&utm_medium=sidebar&utm_campaign=Crypto-Chat-QA-with-Dustin-Hull-Co-President-CFO-SALT-Lending&utm_content=ctalink) 
+* [Details about the competitors](https://cointelegraph.com/news/crypto-loans-see-solid-growth-platforms-attract-community-interest)
+* [Details about Bitcoin Loans](https://learnbonds.com/loans/bitcoin-loans) 
+* [Trends about Traditional Financing & Digital Financing](https://habiletechnologies.com/blog/loan-origination-trends/)
+* [Changing landscape of digital lending](https://medium.com/accion/the-rapidly-changing-landscape-of-digital-lending-c4a6620f6f43)
+* [Decentralised credit lending on the blockchain](https://hackernoon.com/decentralized-credit-lending-on-the-blockchain-fa988b1ec7b4)
 
 
+### Presentation
+
+https://docs.google.com/presentation/d/18Lm1qq2UZo0Ga20pZZ0ufAlG2UKNJcs3/edit#slide=id.p1
+
+## AUTHOR
+
+[Kowsalya Jeyabalan](https://github.com/kowsi)  & [Maitree Maniar](https://github.com/maitree7)
 
 
 
