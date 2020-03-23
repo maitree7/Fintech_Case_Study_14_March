@@ -85,12 +85,12 @@ In addition to that, SALT offers
 
 With its top security practices and high-quality customer service, SALT Lending is positioned as a forward-thinking platform that can effectively preserve the value of borrowers’ cryptocurrencies.
     
-    :heavy_check_mark: Starting from $5,000*
+   &nbsp;&nbsp;&nbsp;:heavy_check_mark: Starting from $5,000*
 
-    :heavy_check_mark: Interest rates from 5.95% *
+   &nbsp;&nbsp;&nbsp;:heavy_check_mark: Interest rates from 5.95% *
 
-    :heavy_check_mark: Terms from 3 to 12 months
+   &nbsp;&nbsp;&nbsp;:heavy_check_mark: Terms from 3 to 12 months
 
-    :heavy_check_mark: Starting LTV from 30% - 70%
-
-    :heavy_check_mark: $0 origination or prepayment fees
+   &nbsp;&nbsp;&nbsp;:heavy_check_mark: Starting LTV from 30% - 70%
+   
+   &nbsp;&nbsp;&nbsp;:heavy_check_mark: $0 origination or prepayment fees
