@@ -93,5 +93,16 @@ To make the best decision possible, be sure to think about the LTV ratio, intere
 
 SALT lendings, while a relatively new platform on the market is a genuinely solid alternative to any established players in the industry. 
 
+### RESOURCES
+
+* https://saltlending.com/ (Information about SALT)
+* https://list.wiki/SALT_(SALT) (Wikipedia page about SALT)
+* https://www.investopedia.com/tech/salt-secured-automated-lending-technology-blockchain/ (SALT Lending Process)
+* https://coincentral.com/salt-lending-beginner-guide/ (SALT Lending Process with real example)
+* https://withcadence.io/blog/crypto-chat-qa-with-dustin-vp-of-salt-lending/utm_source=beamer&utm_medium=sidebar&utm_campaign=Crypto-Chat-QA-with-Dustin-Hull-Co-President-CFO-SALT-Lending&utm_content=ctalink (A discussion with Dustin Hall, VP of SALT Lending)
+* https://cointelegraph.com/news/crypto-loans-see-solid-growth-platforms-attract-community-interest (Details about the competitors)
+
+
+
 
 
