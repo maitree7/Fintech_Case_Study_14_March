@@ -135,24 +135,19 @@ Crypto backed loans are one of the most cost-effective and efficient ways to man
 ### Major Companies Involved
 
 :white_medium_square: [SALT Lending](https://saltlending.com/) - The platform with the most market experience
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Great platform for crypto borrowers in search of a bitcoin loan no collateral`
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Great platform for crypto borrowers in search of a bitcoin loan no collateral`
 
 :white_medium_square: [Bankera Loans](https://bankera.com/) – Best for the safety of your digital assets
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Credit specialist that prides itself on the transparency of their rates as well as the safety of their cold storage systems`
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Credit specialist that prides itself on the transparency of their rates as well as the safety of their cold storage systems`
 
 :white_medium_square: [BlockFi](https://blockfi.com/) – The only crypto account to offer compound interest and trading
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Launched a crypto deposit account that provides compound interest`
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Launched a crypto deposit account that provides compound interest`
 
 :white_medium_square: [Celsius Network](https://celsius.network/) - Fee-free crypto lending
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`The platform has no withdrawal fees, early termination fees or default fees`
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`The platform has no withdrawal fees, early termination fees or default fees`
 
 :white_medium_square: [Nexo](https://nexo.io/) - Most advanced platform for crypto loans
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`The lender markets it as ‘the world’s first instant crypto credit line`
+<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`The lender markets it as ‘the world’s first instant crypto credit line`
 
 ![Crypto Lending Company](Images/crypto-lending-map-comp.gif)
 
