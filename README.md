@@ -22,10 +22,10 @@ SALT's globally available asset-backed financing solution empowers liquidity pro
 ## Business Activities
 
 **Problem in existing Financial Lending Industry**
-* '**Less Flexibility in Lending**' Because of financial regulations in place, those with lower credit scores have a harder time obtaining a loan
-* '**Slower Application Process**' Because there are so many rules, regulations, and face-to-face meetings to fill out paperwork and submit documents, the application time is slower and more tedious than with digital lenders. Digital lenders have a more streamlined approach but still follow the same process to identify the most qualified borrowers with the least amount of hassle.
-* '**Inconvenience**' Banks are typically only open during standard business hours, which makes it hard for many working people, especially on time sensitive banking matters.
-* '**Processing Costs & Fees**' Processing Cost / Loan Application Fees is a fee charged to a potential borrower for processing an application for a loan and are intended to pay for all the costs of the process of loan approval.
+* **`Less Flexibility in Lending`**' Because of financial regulations in place, those with lower credit scores have a harder time obtaining a loan
+* **`Slower Application Process`** Because there are so many rules, regulations, and face-to-face meetings to fill out paperwork and submit documents, the application time is slower and more tedious than with digital lenders. Digital lenders have a more streamlined approach but still follow the same process to identify the most qualified borrowers with the least amount of hassle.
+* **`Inconvenience`** Banks are typically only open during standard business hours, which makes it hard for many working people, especially on time sensitive banking matters.
+* **`Processing Costs & Fees`** Processing Cost / Loan Application Fees is a fee charged to a potential borrower for processing an application for a loan and are intended to pay for all the costs of the process of loan approval.
 
 **Intended Market**
 
@@ -45,4 +45,13 @@ This is because Salt Lending, instead of determining the eligibility of a borrow
 Because of this, approval is fast. Salt keeps collateral assets safe in a "fully-audited, ultra-secure architecture during the life of the loan so members can borrow with confidence," according to their [website](https://saltlending.com/)
 
 Borrowers are charged interest on the loan, as they would be on any other loan. However, unlike other loans, when a borrower pays it off, they receive their blockchain-backed assets back. 
+
+**Technology that set apart SALT from others**
+
+* **`Security`** SALT is  *CCSS (CryptoCurrency Security Standards)*-certified, meaning  maintenance of high-security standards when it comes to managing customer assets. Once a customer transfers assets to SALT platform, they are held in cold storage and are protected by a multi-signature process, meaning no single individual can move funds. Unlike other crypto-backed lenders, SALT don’t rehypothecate customer assets or commingle them with assets owned by other customers.
+
+* **`Customer Support`** Loans are funded in as little as 24 hours and also help the customers around the world with any questions they may have, we offer phone support during normal business hours and 24/7 online support. Given it’s not easy these days to reach a real human even in the traditional banking space without first having to go through numerous automated options,  customer support offerings make it easy for borrowers to communicate with us directly as the need arises. 
+
+* **`Customizable Loan Options`** When applying for a loan with SALT, customers can choose their loan amount, loan type, duration and starting Loan-to-Value (LTV) ratio ranging from 30% to 70%. We also grant customers access to our LTV monitoring system that tracks the prices of assets 24 hours a day, 365 days per year. If there’s a meaningful price drop, our real-time alert system notifies customers immediately via phone calls, texts and emails, so they can effectively manage their loan.  
+           
   
