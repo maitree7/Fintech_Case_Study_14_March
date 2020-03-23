@@ -219,6 +219,8 @@ SALT lendings, while a relatively new platform on the market is a genuinely soli
 * https://cointelegraph.com/news/crypto-loans-see-solid-growth-platforms-attract-community-interest (Details about the competitors)
 * https://learnbonds.com/loans/bitcoin-loans (Details about Bitcoin Loans)
 * https://habiletechnologies.com/blog/loan-origination-trends/ (Trends about Traditional Financing & Digital Financing)
+* https://medium.com/accion/the-rapidly-changing-landscape-of-digital-lending-c4a6620f6f43 (Changing landscape of digital lending)
+* https://hackernoon.com/decentralized-credit-lending-on-the-blockchain-fa988b1ec7b4 (Decentralised credit lending on the blockchain)
 
 
 ### POWERPOINT SLIDES
