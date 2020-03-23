@@ -46,12 +46,17 @@ Because of this, approval is fast. Salt keeps collateral assets safe in a "fully
 
 Borrowers are charged interest on the loan, as they would be on any other loan. However, unlike other loans, when a borrower pays it off, they receive their blockchain-backed assets back. 
 
+### **Example of SALT LENDING LOAN**
+![Salt_process](images/Salt_process.png)
+
 **Technology that set apart SALT from others**
 
 * **`Security`** SALT is  *CCSS (CryptoCurrency Security Standards)*-certified, meaning  maintenance of high-security standards when it comes to managing customer assets. Once a customer transfers assets to SALT platform, they are held in cold storage and are protected by a multi-signature process, meaning no single individual can move funds. Unlike other crypto-backed lenders, SALT don’t rehypothecate customer assets or commingle them with assets owned by other customers.
 
 * **`Customer Support`** Loans are funded in as little as 24 hours and also help the customers around the world with any questions they may have, we offer phone support during normal business hours and 24/7 online support. Given it’s not easy these days to reach a real human even in the traditional banking space without first having to go through numerous automated options,  customer support offerings make it easy for borrowers to communicate with us directly as the need arises. 
 
-* **`Customizable Loan Options`** When applying for a loan with SALT, customers can choose their loan amount, loan type, duration and starting Loan-to-Value (LTV) ratio ranging from 30% to 70%. We also grant customers access to our LTV monitoring system that tracks the prices of assets 24 hours a day, 365 days per year. If there’s a meaningful price drop, our real-time alert system notifies customers immediately via phone calls, texts and emails, so they can effectively manage their loan.  
+* **`Customizable Loan Options`** When applying for a loan with SALT, customers can choose their loan amount, loan type, duration and starting Loan-to-Value (LTV) ratio ranging from 30% to 70%.  
            
-  
+* **`LTV monitoring system`** Customers get access to LTV monitoring system that tracks the prices of assets 24 hours a day, 365 days per year. If there’s a meaningful price drop, our real-time alert system notifies customers immediately via phone calls, texts and emails, so they can effectively manage their loan.
+
+
