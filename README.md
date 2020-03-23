@@ -21,20 +21,25 @@ SALT's globally available asset-backed financing solution empowers liquidity pro
 
 ## BUSINESS ACTIVITIES
 
-**Problem in existing Financial Lending Industry**
+### Problem in existing Financial Lending Industry
 * **`Less Flexibility in Lending`**' Because of financial regulations in place, those with lower credit scores have a harder time obtaining a loan
 * **`Slower Application Process`** Because there are so many rules, regulations, and face-to-face meetings to fill out paperwork and submit documents, the application time is slower and more tedious than with digital lenders. Digital lenders have a more streamlined approach but still follow the same process to identify the most qualified borrowers with the least amount of hassle.
 * **`Inconvenience`** Banks are typically only open during standard business hours, which makes it hard for many working people, especially on time sensitive banking matters.
 * **`Processing Costs & Fees`** Processing Cost / Loan Application Fees is a fee charged to a potential borrower for processing an application for a loan and are intended to pay for all the costs of the process of loan approval.
 
-**Intended Market**
+### Intended Market
 
 Crypto backed lending is not a product, company or any organization. It’s  innovative technology, a technology that has  disrupted the traditional financial lending market
+
 Crypto backed lending sector overall is approx. $5B in value
-As per the report from [BlockCrypto](https://www.theblockcrypto.com/linked/36152/crypto-lending-sector-hits-nearly-5b-in-value-but-lenders-earn-less-than-2-interest-report), below are the details about crypto lending sector overall:
+SALT Lending market cap is $6.6M in value
+
+As per the report from "coinmarketcap", below are the details about crypto lending sector overall:
   ![Cryptolending_market](Images/Cryptolending_market.png)
 
-**SALT Lending Process**
+### SALT Lending Process
+
+#### Loan Process
 
 Users buy membership to the Salt Lending platform by purchasing Salt, which is the platform's cryptocurrency. 
 
@@ -48,7 +53,23 @@ Borrowers are charged interest on the loan, as they would be on any other loan. 
 
 ![Salt_process](Images/Salt_Process.png)
 
-**Technology that set apart SALT from others**
+#### SALT Oracle
+
+The SALT Oracle creates the smart contracts for each loan and triggers the events of the loan. To lower the risk of default, the Oracle also records loan payments and monitors the changing value of the crypto collateral.
+
+Every loan starts with a loan-to-value ratio that’s calculated from the terms of the loan. This ratio is effectively the amount of the loan divided by the amount of collateral. For example, a $100,000 loan secured by $125,000 worth of Ethereum would have an original loan-to-value ratio of:
+
+$100,000 / $125,000 = 80.0%
+
+As borrower pay off the loan, this ratio decreases because the amount of the outstanding loan decreases. However, if the value of your collateral decreases due to a decline in the market price, this ratio will increase.
+
+If the ratio ever increases beyond the initial loan-to-value ratio, you’ll be required to either:
+
+* provide more collateral, or pay-off an additional amount of the loan until the ratio returns to the original level.
+
+* The Oracle autonomously tracks the loan-to-value ratios and notifies the borrowers when it becomes too high. The amount of time a borrower has to correct the ratio differs based on the velocity of the price decline
+
+### Technology that set apart SALT from others
 
 * **`Security`** SALT is  *CCSS (CryptoCurrency Security Standards)*-certified, meaning  maintenance of high-security standards when it comes to managing customer assets. Once a customer transfers assets to SALT platform, they are held in cold storage and are protected by a multi-signature process, meaning no single individual can move funds. Unlike other crypto-backed lenders, SALT don’t rehypothecate customer assets or commingle them with assets owned by other customers.
 
