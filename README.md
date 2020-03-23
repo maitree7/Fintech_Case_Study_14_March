@@ -217,6 +217,9 @@ SALT lendings, while a relatively new platform on the market is a genuinely soli
 * https://coincentral.com/salt-lending-beginner-guide/ (SALT Lending Process with real example)
 * https://withcadence.io/blog/crypto-chat-qa-with-dustin-vp-of-salt-lending/utm_source=beamer&utm_medium=sidebar&utm_campaign=Crypto-Chat-QA-with-Dustin-Hull-Co-President-CFO-SALT-Lending&utm_content=ctalink (A discussion with Dustin Hall, VP of SALT Lending)
 * https://cointelegraph.com/news/crypto-loans-see-solid-growth-platforms-attract-community-interest (Details about the competitors)
+* https://learnbonds.com/loans/bitcoin-loans (Details about Bitcoin Loans)
+* https://habiletechnologies.com/blog/loan-origination-trends/ (Trends about Traditional Financing & Digital Financing)
+
 
 ### POWERPOINT SLIDES
 
