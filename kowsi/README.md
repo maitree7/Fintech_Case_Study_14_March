@@ -33,11 +33,11 @@ A new innovation in the finance industry, blockchain assets are ideal collatera
 ### Use Crypto Load For
 
 Crypto backed loans are one of the most cost-effective and efficient ways to manage your cryptocurrencies when you need access to USD. 
-  * `***Buying a home***` – traditional lenders will not let you pay for a home with crypto
-  * `***Diversifying investments***` – lower the risk of your portfolio by diversifying
-  * `***Paying off travel expenses***` – use your crypto to go on vacation
-  * `***Paying off high-cost debt***` – refinancing debt from credit cards or student loans
-  * `***Funding a business***` – access credit for your business using crypto
+  * `Buying a home` – traditional lenders will not let you pay for a home with crypto
+  * `Diversifying investments` – lower the risk of your portfolio by diversifying
+  * `Paying off travel expenses` – use your crypto to go on vacation
+  * `Paying off high-cost debt` – refinancing debt from credit cards or student loans
+  * `Funding a business` – access credit for your business using crypto
 
 ### Major Companies Involved
 
