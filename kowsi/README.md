@@ -16,6 +16,7 @@
 
 ### Trends & Innovation
   > In 2010, LendingTree.com survey found that 21% of prospective home loan consumers shopped online. 
+  
   > In 2015, BBVA survey states that 45% increase in consumer loans through mobile phones.
 
 The rise of Fintech made much more changes in the lending system. Now, it also gives rise to many peer to peer lending sites. Over the past few years, we've come to realize that lending is no longer constrained to the doors and floors of a bank. The people are completely moving to the automated world where everything available online inside their smart phones
@@ -41,20 +42,29 @@ Crypto backed loans are one of the most cost-effective and efficient ways to man
 
 ### Major Companies Involved
 
-[SALT Lending](https://saltlending.com/) - The platform with the most market experience
-  `Great platform for crypto borrowers in search of a bitcoin loan no collateral`
-[Bankera Loans](https://bankera.com/) – Best for the safety of your digital assets
-  `Credit specialist that prides itself on the transparency of their rates as well as the safety of their cold storage systems`
-[BlockFi](https://blockfi.com/) – The only crypto account to offer compound interest and trading
-  `Launched a crypto deposit account that provides compound interest`
-[Celsius Network](https://celsius.network/) - Fee-free crypto lending
-  `The platform has no withdrawal fees, early termination fees or default fees`
-[Nexo](https://nexo.io/) - Most advanced platform for crypto loans
-  `The lender markets it as ‘the world’s first instant crypto credit line`
+:white_medium_square: [SALT Lending](https://saltlending.com/) - The platform with the most market experience
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Great platform for crypto borrowers in search of a bitcoin loan no collateral`
+
+:white_medium_square: [Bankera Loans](https://bankera.com/) – Best for the safety of your digital assets
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Credit specialist that prides itself on the transparency of their rates as well as the safety of their cold storage systems`
+
+:white_medium_square: [BlockFi](https://blockfi.com/) – The only crypto account to offer compound interest and trading
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Launched a crypto deposit account that provides compound interest`
+
+:white_medium_square: [Celsius Network](https://celsius.network/) - Fee-free crypto lending
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`The platform has no withdrawal fees, early termination fees or default fees`
+
+:white_medium_square: [Nexo](https://nexo.io/) - Most advanced platform for crypto loans
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`The lender markets it as ‘the world’s first instant crypto credit line`
 
 ![Crypto Lending Company](../Images/crypto-lending-map-comp.gif)
 
-## Result
+## RESULT
 
 ### Key Factor
 
@@ -65,6 +75,22 @@ Crypto backed loans are one of the most cost-effective and efficient ways to man
 
 In addition to that, SALT offers
 
-  >No monthly minimum payments
-  >Set pre-established loan terms
-  >Minimizes taxes as conversion to U.S Dollar is not required
+  * No monthly minimum payments 
+  
+  * Set pre-established loan terms
+  
+  * Minimizes taxes as conversion to U.S Dollar is not required
+
+### Performance relative to competitor
+
+With its top security practices and high-quality customer service, SALT Lending is positioned as a forward-thinking platform that can effectively preserve the value of borrowers’ cryptocurrencies.
+    
+    :heavy_check_mark: Starting from $5,000*
+
+    :heavy_check_mark: Interest rates from 5.95% *
+
+    :heavy_check_mark: Terms from 3 to 12 months
+
+    :heavy_check_mark: Starting LTV from 30% - 70%
+
+    :heavy_check_mark: $0 origination or prepayment fees
