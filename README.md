@@ -1,6 +1,6 @@
 # SALT LENDING
 ![Salt_image](Images/Salt_image.png)
-## BACKGROUND ABOUT SALT
+## ABOUT SALT
 
 **SALT** stands for **Secured Automated & Lending Technology**
 
@@ -104,7 +104,7 @@ So, while managing such volatility is not common in traditional asset-backed len
 
 ### Evolution of Lending
 
-![Evolution of Lending](../Images/evolution_of_lending.png)
+![Evolution of Lending](Images/evolution_of_lending.png)
 
 ### Trends & Innovation
   > In 2010, LendingTree.com survey found that 21% of prospective home loan consumers shopped online. 
@@ -154,7 +154,7 @@ Crypto backed loans are one of the most cost-effective and efficient ways to man
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`The lender markets it as ‘the world’s first instant crypto credit line`
 
-![Crypto Lending Company](../Images/crypto-lending-map-comp.gif)
+![Crypto Lending Company](Images/crypto-lending-map-comp.gif)
 
 ## RESULT
 
